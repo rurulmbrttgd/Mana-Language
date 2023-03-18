@@ -1,0 +1,141 @@
+/* This is 
+a
+multi-line
+comment*/
+
+
+
+// Identifier in MANA
+halimbawa
+halimbawa
+Halimbawa
+HALIMbawa
+HALIMBAWA
+_halimbawa
+$halimbawa
+Halimb4wa
+i
+I
+
+// Keyword in MANA
+angkat
+at
+bilang
+bumalik
+diloob
+eksp
+habang
+hati
+iba
+int
+isubok
+kar
+karosa
+kapagdi
+klase
+liban
+limbag
+loob
+pag
+para
+pisi
+tanggap
+
+// Reserved Words in MANA
+huwad
+tumpak
+tuwiran
+wala
+
+// Constant Values in MANA
+12345
+12.1234567
+'hello world'
+'A'
+
+// Noise Words in MANA
+onent
+eksponent
+ibapa
+inilimbag
+edyer
+eksp onent
+pa
+ini
+edyer
+ka
+akter
+sa
+in
+
+// Operators in MANA
+// Arithmetic Operators in MANA
++
+-
+*
+/
+~
+%
+^
+
+
+// Boolean Operators in MANA
+==
+!=
+>
+<
+>=
+<=
+!
+&&
+||
+
+// Unary Operators in MANA
+++
+--
+
+// Assignment Operators in MANA
+=
++=
+*=
+-=
+/= 
+%= 
+~=
+^=
+
+// Delimeter and Brackets in MANA
+{
+}
+[
+]
+(
+)
+:
+;
+,
+
+
+// EXAMPLE for Invalid Error Messages
++onehundred
+&9
+!A
+1+2
+2^3
+num=9*0
+testing'
+
+//Entered input last time
+6halimbawa
+@halimbawa
+halimbaw@
+_
+$
+"halimbawa"
+c
+1+2           =       5
+5.12
+5.12.12
+/*
+
+*/

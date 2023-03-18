@@ -1,0 +1,90 @@
+//Assignment statements
+a = 2 ;
+b += 2 + 3 ;
+a = b ;
+
+//Declaration statements
+kar b;
+int num ;
+kar a;
+karosa float ;
+int b = 45 + 4 + 7 + 9 + 10 ;
+int b = 45 ;
+int b ( int a ) {
+    limbag("Total: " + a) ; }
+
+
+//Input statement
+k = tanggap()
+
+//Output statement
+
+limbag( "Group 2" ) ;
+limbag("Numero: " + a * b);
+limbag("Answer: " + x ) ;
+
+//Iterative statement
+para (int numero = 0; numero > 4; ++ numero ) { 
+    limbag("Ang numero ay:");
+}
+
+habang (numero < 2){
+    limbag("Numero");
+    -- numero;
+}
+// Nested Iterative statement
+para (int numero = 0; numero > 4; ++ numero ) { 
+    para (int numero = 0; numero > 4; ++ numero ) { 
+    limbag("Ang numero ay:");
+    }
+}
+
+habang (numero < 2){
+    habang (numero < 2){
+    limbag("Numero");
+    -- numero;
+    }
+}
+
+
+//Conditional statements
+
+    pag(a * b * 6) 	{
+        limbag( "tumpak" ); }
+
+    pag(a * b){
+        limbag( "tumpak" ); }
+    kapagdi( 4 * b)	{
+        limbag( "tumpak" ); }
+    kapagdi( 4 * 4 )	{
+        limbag( "tumpak" ); }
+
+    pag(a * b * 6) {	
+        limbag( "tumpak" ); }
+    iba			{
+        limbag( "huwad" ); }
+
+// Nested Conditional statements 
+pag(a * b > B ) {
+   	 pag( a < b + c )
+        limbag( "what" );}
+kapagdi(a * b) {
+    pag(a < b)
+        limbag( "what" ); }
+
+pag(a * b) {
+    pag(a < b)
+        limbag( "what" ); }
+
+//error recovery??
+    //no pair in the 'numero >'
+    para (int numero = 0; numero > ; ++ numero ) { 
+    limbag("Ang numero ay:");
+    }
+    pag (numero + 5 {      //kulang ng )
+        limbag( "tumpak" ;  // kulang din ng )
+        limbag( "tumpak" )  // kulang ng ;
+                            // kulang ng }
+    kapagdi( 4 + 5  )	          // misssing one term    
+        limbag( "tumpak" )  //kulang ng ;
+	
